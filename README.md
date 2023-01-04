@@ -11,9 +11,9 @@ Game Designers: <br>
 -Axel BASSELIER-MARCHAL <br>
   
 Game Programmers: <br>
--Nino MASSETEAU <br>
--Lenny RABINNE <br>
--Matéo ERBISTI <br>
+-[Nino MASSETEAU](https://github.com/Elmea) <br>
+-[Lenny RABINNE](https://github.com/lenny-rbn) <br>
+-[Matéo ERBISTI](https://github.com/e-mateo) <br>
    <br>
 Sound Designer: <br>
 -Louis EPINEUSE <br>
