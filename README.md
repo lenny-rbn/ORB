@@ -18,4 +18,3 @@ Game Programmers: <br>
 Sound Designer: <br>
 -Louis EPINEUSE <br>
  <br>
-Link to play : https://millot.itch.io/orb
